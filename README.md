@@ -6,7 +6,7 @@
 
 Use **minimum** dependencies to launch powerful ChatGPT to evaluate your IELTS writing task 2 and give detailed feedback.
 
-1. clone the repository `https://github.com/stupidHIGH/ieltsGPT.git `
+1. clone the repository `https://github.com/stupidHIGH/ieltsGPT.git`
 
 2. replace `ielts_essay.txt` with your own writing script (use the given format).
 
