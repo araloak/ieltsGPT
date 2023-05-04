@@ -1,10 +1,9 @@
 # ieltsGPT
 
-===========================
-
 ## Usage
 
-Use **minimum** dependencies to launch powerful ChatGPT to evaluate your IELTS writing task 2 and give detailed feedback.
+Use **minimum** dependencies to launch powerful ChatGPT to evaluate your IELTS writing task 2 and give detailed feedback considering different criterion.
+（配置chatgpt对雅思写作根据四个评分标准进行详细评估）
 
 1. clone the repository `https://github.com/stupidHIGH/ieltsGPT.git`
 
