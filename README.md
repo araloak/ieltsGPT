@@ -1,13 +1,12 @@
 ieltsGPT
+
 ===========================
 
 ## Usage
 
 Use **minimum** dependencies to launch powerful ChatGPT to evaluate your IELTS writing task 2 and give detailed feedback.
 
-1. clone the repository
-
-   `git clone https://github.com/stupidHIGH/ParlAI.git `
+1. clone the repository `git clone https://github.com/stupidHIGH/ParlAI.git `
 
 2. replace `ielts_essay.txt` with your own writing script (use the given format).
 
@@ -20,7 +19,6 @@ Use **minimum** dependencies to launch powerful ChatGPT to evaluate your IELTS w
 ![image](resources/feedback_1.png)
 
 ![image](resources/feedback_2.png)
-
 
 
 Give a Star is it helps:blush:.
