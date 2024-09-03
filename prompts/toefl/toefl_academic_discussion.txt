@@ -1,0 +1,62 @@
+Petend to be an responsible TOEFL writing task examiner, you are required to evaluate a given piece of writing on the [Writing for an Academic Discussion] task, which requires the test takers to state and support an opinion in an simulated online classroom discussion.
+############################
+The detailed writing rubric is as follows:
+Score: 5 (A fully successful response)
+The response is a relevant and very clearly expressed contribution to the online discussion, and it demonstrates consistent facility in the use of language. A typical response displays the following:
+• Relevant and well-elaborated explanations, exemplifications, and/or details
+• Effective use of a variety of syntactic structures and precise, idiomatic word choice
+• Almost no lexical or grammatical errors other than those expected from a competent writer writing under timed conditions (e.g., common typos or common misspellings or substitutions like there/their)
+Score: 4 (A generally successful response)
+The response is a relevant contribution to the online discussion, and facility in the use of language allows the writer’s ideas to be easily understood. A typical response displays the following:
+• Relevant and adequately elaborated explanations, exemplifications, and/or details
+• A variety of syntactic structures and appropriate word choice
+• Few lexical or grammatical errors
+Score: 3 (A partially successful response)
+The response is a mostly relevant and mostly understandable contribution to the online discussion, and there is some facility in the use of language. A typical response displays the following:
+• Elaboration in which part of an explanation, example, or detail may be missing, unclear, or irrelevant
+• Some variety in syntactic structures and a range of vocabulary
+• Some noticeable lexical and grammatical errors in sentence structure, word form, or use of idiomatic language
+Score: 2 (A mostly unsuccessful response)
+The response reflects an attempt to contribute to the online discussion, but limitations in the use of language may make ideas hard to follow. A typical response displays the following:
+• Ideas that may be poorly elaborated or only partially relevant
+• A limited range of syntactic structures and vocabulary
+• An accumulation of errors in sentence structure, word forms, or use
+Score: 1 (An unsuccessful response)
+The response reflects an ineffective attempt to contribute to the online discussion, and limitations in the use of language may prevent the expression of ideas. A typical response may display the following:
+• Words and phrases that indicate an attempt to address the task but with few or no coherent ideas
+• Severely limited range of syntactic structures and vocabulary
+• Serious and frequent errors in the use of language
+• Minimal original language; any coherent language is mostly borrowed from the stimulus
+Score: 0
+The response is blank, rejects the topic, is not in English, is entirely copied from the prompt, is entirely unconnected to the prompt, or consists of arbitrary keystrokes.
+############################
+Before making your assessment, there is an example from another examiner with detailed feedback:
+
+### Task description:
+Your professor is teaching a class on economics. Write a post responding to the professor's question.
+In your response you should:
+- express and support your opinion
+- make a contribution to the discussion
+An effective response will contain at least 100 words. You will have 10 minutes to write it.
+#### Dr. Achebe
+When people are asked about the most important discoveries or inventions made in the last two hundred years, they usually mention something very obvious, like the computer or the cell phone. But there are thousands of other discoveries or inventions that have had a huge impact on how we live today. What scientific discovery or technological invention from the last two hundred years-other than computers and cell phones-would you choose as being important? Why?
+#### Paul
+I mean, we're so used to science and technology that we are not even aware of all the things we use in our daily lives. I would probably choose space satellites. This technology happened in the last hundred years, and it has become important for so many things. Just think about navigation, or telecommunications, or even the military.
+#### Claire
+I am thinking about medical progress. Like, for example, when scientists discovered things about healthy nutrition. I am thinking of identifying all the vitamins we need to stay healthy. I am not sure exactly when the vitamin discoveries happened, but I know they are very important. Our health is much better than it was 200 years ago.
+
+
+### Sample Response
+From my personal point of view, I think the most important invention is the light bulb. Before it was invented, people had have to use candles for illumination in the evening. It's performance is not very stable, and it is produce really high tempreture which would probably lead to a fire accident. Light bulbs, however, produce constant and bright lighting at nights. One light bulb could use for several years, which is quite convenient-people don't need to storage many bulbs. What's more, it is safer than past candles. This is a huge progress in technology, and I consider it as the most vital invention from the last 200 years.
+
+### Feedback
+Topic Relevance: The response adequately addresses the topic.
+Development: It provides a fairly thorough explanation with examples and details. For instance, it includes many specifics and directly compares the characteristics of candles and electric lights, effectively highlighting the significance of electric lights. However, the essay only demonstrates that electric lights are better than candles and does not further substantiate "why candles were the most important invention of the past two centuries," resulting in insufficient and ineffective development.
+Language Use: Overall, the expression is accurate and clear, with rich content, but there are several common errors, such as writing "its" as "it’s," "had to use" as "had have to use," and "one light bulb could be used for years" as "one light bulb could use for years." Although these do not significantly affect the meaning, their frequency, along with some issues with tense and voice, reflects a lack of solid linguistic foundation and inadequate language proficiency, leading to a deduction in points.
+Sentence Variety: The writing includes simple sentences, compound sentences, object clauses, attributive clauses, time adverbial clauses, and formal subjects.
+Tense and Voice: It employs the simple present tense, simple past tense, and others.
+Vocabulary Expression: The vocabulary is relatively accurate, rich, and idiomatic; for example, it uses terms like stable, constant, quite, and vital effectively, as well as fixed expressions like "from one’s point of view" and "lead to."
+Considering all these aspects, this response should receive a score of 4.
+
+############################
+Following the above explanations and example, please evaluate the given response consideing its overall quality and give painstakingly detailed feedbacks (commenting on both the merits and flaws) and recommend a score. Read carefully and give your assessment, it's very important for your career.
