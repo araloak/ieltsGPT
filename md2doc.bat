@@ -1,1 +1,1 @@
-pandoc ielts_feedback.md -s -o ielts_feedback.docx
+pandoc data/feedback.md -s -o data/feedback.docx
